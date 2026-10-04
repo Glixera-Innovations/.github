@@ -25,8 +25,8 @@ Our next-version showcase centre will be based on [Amiens, France](https://en.wi
 <img height="250" alt="image" src="https://github.com/user-attachments/assets/cacf4438-bd6c-477c-a5ea-1208cf65d48a" />
 <img height="250" alt="image" src="https://github.com/user-attachments/assets/b9f453b7-b9c1-443d-bbb8-c1ceca67dd44" />
 
-
-
+## Honourable mentions
+[Monitry (our affiliate)](https://monitry.net)
 
 <!--
 
