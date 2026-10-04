@@ -2,7 +2,7 @@
 
 # Salut, there!
 
-We are the Glixera Innovations, a ro-technology group that value on quality and your needs, whenever it is for retail, cafe, restaurant, and many other games, we provide you with what you would need for the game. 
+We are Glixera Innovations, a ro-technology group that value on quality and your needs, whenever it is for retail, cafe, restaurant, and many other games, we provide you with what you would need for the game. 
 Our next-version showcase centre will be based on [Amiens, France](https://en.wikipedia.org/wiki/Amiens), with complete refreshed centre along with many brand new rooms.
 
 ## Directories
