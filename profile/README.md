@@ -1,4 +1,4 @@
-<img height="250" alt="Glixera Innovations full logo" src="https://github.com/user-attachments/assets/d7ae97b5-6be5-4ce0-96fb-cf721fa1cea6"/>
+<img height="100" alt="Glixera Innovations full logo" src="https://github.com/user-attachments/assets/d7ae97b5-6be5-4ce0-96fb-cf721fa1cea6"/>
 
 # Salut, there!
 
