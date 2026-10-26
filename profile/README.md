@@ -1,7 +1,11 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.glixera.eu/glixerafulllogowhite.png#gh-dark-mode-only">
-  <img alt="Glixera Innovations" src="https://cdn.glixera.eu/glixerafulllogoblack.png#gh-light-mode-only" height="100">
-</picture>
+<p align="center">
+  <a href="https://github.com/Glixera-Innovations#gh-light-mode-only">
+    <img src="https://cdn.glixera.eu/glixerafulllogoblack.png#gh-light-mode-only" alt="Glixera Innovations" height="100">
+  </a>
+  <a href="https://github.com/Glixera-Innovations#gh-dark-mode-only">
+    <img src="https://cdn.glixera.eu/glixerafulllogowhite.png#gh-dark-mode-only" alt="Glixera Innovations" height="100">
+  </a>
+</p>
 
 # Salut, there!
 
