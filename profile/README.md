@@ -1,4 +1,5 @@
-<img height="100" alt="Glixera Innovations full logo" src="https://github.com/user-attachments/assets/d7ae97b5-6be5-4ce0-96fb-cf721fa1cea6" style="filter: invert(1);">
+<img height="100" alt="Glixera Innovations full logo" src="https://github.com/user-attachments/assets/d7ae97b5-6be5-4ce0-96fb-cf721fa1cea6#gh-dark-mode-only" />
+<img width="640" height="127" alt="Group 67" src="https://github.com/user-attachments/assets/1c82621d-82a7-4a52-bea4-2fc1ba49108d#gh-light-mode-only" />
 
 # Salut, there!
 
