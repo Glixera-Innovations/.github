@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <a href="https://github.com/Glixera-Innovations#gh-light-mode-only">
     <img src="https://cdn.glixera.eu/glixerafulllogoblack.png#gh-light-mode-only" alt="Glixera Innovations" height="100">
   </a>
