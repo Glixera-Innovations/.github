@@ -1,11 +1,4 @@
-<p>
-  <a href="https://github.com/Glixera-Innovations#gh-light-mode-only">
-    <img src="https://cdn.glixera.eu/glixerafulllogoblack.png#gh-light-mode-only" alt="Glixera Innovations" height="100">
-  </a>
-  <a href="https://github.com/Glixera-Innovations#gh-dark-mode-only">
-    <img src="https://cdn.glixera.eu/glixerafulllogowhite.png#gh-dark-mode-only" alt="Glixera Innovations" height="100">
-  </a>
-</p>
+<img align="center" height="250" alt="image" src="https://github.com/user-attachments/assets/f4dc58ea-0a40-417b-a2d0-cd2b7e51bb5a" />
 
 # Salut, there!
 
