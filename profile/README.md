@@ -1,5 +1,8 @@
-<img height="100" alt="Glixera Innovations full logo" src="https://cdn.glixera.eu/glixerafulllogowhite.png#gh-dark-mode-only" />
-<img height="100" alt="Group 67" src="https://cdn.glixera.eu/glixerafulllogoblack.png#gh-light-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.glixera.eu/glixerafulllogowhite.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.glixera.eu/glixerafulllogoblack.png">
+  <img alt="Glixera Innovations" src="https://cdn.glixera.eu/glixerafulllogoblack.png" height="100">
+</picture>
 
 # Salut, there!
 
